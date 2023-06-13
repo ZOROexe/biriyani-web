@@ -1,0 +1,22 @@
+body{
+    background-color: palegoldenrod;
+    margin: 1rem auto 1rem; 
+    padding: 3rem;
+    border: 3px solid red;
+    border-radius: 2rem;
+    outline: 3px solid purple;
+    outline: 3px solid green;
+    font-family: sans-serif;
+    max-width: 600px;
+}
+
+ol{
+    list-style: inside;
+}
+ul{
+    list-style: inside;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}

@@ -1,0 +1,79 @@
+body{
+    background-color: papayawhip;
+}
+.okee {
+    border: 10px double red;
+    margin: 1.5em;
+    padding: 1.5em;
+
+    outline: 5px solid green;
+}
+.circle {
+    background-color: gold;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border: 2px solid gold;
+    border-radius: 50px;
+
+}
+.cent {
+    text-align: center;
+    font: bold;
+}
+
+a{
+    color: goldenrod;
+    text-decoration: none;
+    cursor: crosshair;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: black;
+}
+section{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 2em;
+    margin: 0 auto 1rem;
+    max-width: 600px;
+    line-height: 2em;
+}
+section h2{
+    background-color: rgba(0, 0, 255, 0.362);
+    padding: 1em;
+    font-size: large;
+    line-height: 2em;
+    border-radius: 2em 2rem 0 0;
+}
+ul{
+        list-style-type: none;
+}
+li{
+        border-top: 1px solid black;
+}
+li a:hover{
+    color: rebeccapurple;
+    background-color: darkgray;
+}
+li a:visited{
+    color: purple;
+}
+li a{
+    display: block;
+}
+li:last-child a{
+    border-radius: 0 0 2rem 2rem;
+}
+

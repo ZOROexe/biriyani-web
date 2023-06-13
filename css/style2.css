@@ -1,0 +1,13 @@
+body {
+    margin: 3rem;
+    border: 4px double red;
+    border-radius: 2rem;
+    padding: 3rem;
+    outline: 2px solid purple;
+    outline: 2px solid green;
+    background-color: papayawhip;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
